@@ -21,10 +21,16 @@ Translation results : 9 1580 --> have : 有
 
 ```
 
-保存的 resutls.xlsx 文件截图如下：
-<p align="left">
-  <img width="1000" src="for_readme/results.png">
-</p>
+保存的 resutls.xlsx 内容如下：
+
+| 	编号 | 频数 | 带饭有单词 | 翻译结果 | 
+|--|--|--|--|--|--|
+| 1 | 13432 | the  | 这个 |
+|  2| 4632| and | 和 |  
+| 3 | 2479 | are  | 是 |  
+| 4 |2364  | that | 那个 | 
+| 5 | 2326 | for | 对于 | 
+
 
 ## 2. 使用说明：
 
