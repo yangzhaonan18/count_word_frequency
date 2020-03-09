@@ -24,17 +24,11 @@ Translation results : 9 1580 --> have : 有
 保存的 resutls.xlsx 内容如下：
 
 | 编号 | 频数 | 带饭有单词 | 翻译结果 | 
-
-|--|--|--|--|--|--|
-
+|--|--|--|--|
 | 1 | 13432 | the  | 这个 |
-
 |  2| 4632| and | 和 |  
-
 | 3 | 2479 | are  | 是 |  
-
 | 4 |2364  | that | 那个 | 
-
 | 5 | 2326 | for | 对于 | 
 
 
@@ -42,10 +36,12 @@ Translation results : 9 1580 --> have : 有
 
 1. main.py 
 程序用于统计 CET6_txt 文件夹中 .txt 文档中的单词的频数，最总结果将保存在 results.xlsx 中。
+
 程序流程：1. 读取各个文档中的内容；2. 将单词按降序排列；3. 调用百度翻译API翻译每一个单词并保存至excel文档。
 
 2. BaiduTransAPI_forPython3.py 
 程序是从百度翻译API下载的翻译DEMO文件.官网链接：http://api.fanyi.baidu.com/doc/21
+
 程序流程：1. 输入英文单词或句子；2. 返回调用百度翻译API翻译的结果。
 
 3. 上述两个文件可单独运行，无交集。
