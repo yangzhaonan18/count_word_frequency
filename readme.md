@@ -5,10 +5,9 @@
 
 ## 1. 功能说明：
 
-程序执行如下：
+程序执行 `python main.py ` 运行结果如下：
 
 ```
-(py37_cl) yzn@yzn-cn15s:~/Desktop/doc_3yue/CET6$ python main.py 
 Number of all words : 18874
 Translation results : 1 13432 --> the : 这个
 Translation results : 2 4632 --> and : 和
@@ -23,7 +22,9 @@ Translation results : 9 1580 --> have : 有
 ```
 
 保存的 resutls.xlsx 文件截图如下：
-
+<p align="left">
+  <img width="1000" src="for_readme/results.png">
+</p>
 
 ## 2. 使用说明：
 
