@@ -5,7 +5,7 @@
 
 ## 1. 功能说明：
 
-程序执行 `python main.py ` 运行结果如下：
+程序执行 `python3 main.py ` 运行结果如下：
 
 ```
 Number of all words : 18874
