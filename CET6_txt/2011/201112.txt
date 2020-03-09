@@ -1,0 +1,297 @@
+2011年12月大学英语六级真题及答案解析
+Part I   Writing (30 minutes)
+Directions: For this part, you are allowed 30 minutes to write a short essay entitled The Way to Success by commenting on Abraham Lincoln's famous remark, "Give me six hours to chop down a tree, and I will spend, the first four sharpening the axe." You should write at least 150 words but no more than 200 words.
+The Way to Success
+注意：此部分试题请在答题卡1上作答。
+Part II Reading Comprehension (Skimming and Scanning)
+(15 minutes)
+Directions: In this part, you will have 15 minutes to go over the passage quickly and answer thequestions on Answer Sheet 1. For questions 1-7, choose the best answer from the four choices marked A), B), C) and D). For questions 8-10, complete the sentences with the information given in the passage.
+Google's Plan for World's Biggest Online Library: Philanthropy Or Act of Piracy?
+In recent years, teams of workers dispatched by Google have been working hard to make digital copies of books. So far, Google has scanned more than 10 million titles from libraries in America and Europe - including half a million volumes held by the Bodleian in Oxford. The exact method it uses is unclear; the company does not allow outsiders to observe the process.
+Why is Google undertaking such a venture? Why is it even interested in all those out-of-printlibrary books, most of which have been gathering dust on forgotten shelves for decades? Thecompany claims its motives are essentially public-spirited. Its overall mission, after all, is to "organise the world's information", so it would be odd if that information did not include books.
+The company likes to present itself as having lofty aspirations. "This really isn't about making money. We are doing this for the good of society." As Santiago de la Mora, head of Google Books for Europe, puts it: "By making it possible to search the millions of books that exist today, we hope to expand the frontiers of human knowledge."
+Dan Clancy, the chief architect of Google Books, does seem genuine in his conviction that this is primarily a philanthropic (慈善的) exercise. "Google's core business is search and find, so obviously what helps improve Google's search engine is good for Google," he says. "But we have never built a spreadsheet (电子数据表) outlining the financial benefits of this, and I have never had to justify the amount I am spending to the company's founders."
+It is easy, talking to Clancy and his colleagues, to be swept along by their missionary passion. But Google's book-scanning project is proving controversial. Several opponents have recently emerged, ranging from rival tech giants such as Microsoft and Amazon to small bodies representing authors and publishers across the world. In broad terms, these opponents have levelled two sets of criticisms at Google.
+First, they have questioned whether the primary responsibility for digitally archiving the world's books should be allowed to fall to a commercial company. In a recent essay in the New York Review of Books, Robert Darnton, the head of Harvard University's library, argued that because such books are a common resource – the possession of us all – only public, not-for-profit bodies should be given the power to control them.
+The second related criticism is that Google's scanning of books is actually illegal. This allegation has led to Google becoming mired in (陷入) a legal battle whose scope and complexity makes the Jarndyce and Jarndyce case in Charles Dickens' Bleak House look straightforward.
+At its centre, however, is one simple issue: that of copyright. The inconvenient fact about most books, to which Google has arguably paid insufficient attention, is that they are protected by copyright. Copyright laws differ from country to country, but in general protection extends for the duration of an author's life and for a substantial period afterwards, thus allowing the author's heirs to benefit. (In Britain and America, this post-death period is 70 years.) This means, of course, that almost all of the books published in the 20th century are still under copyright – and the last century saw more books published than in all previous centuries combined. Of the roughly 40 million books in US libraries, for example, an estimated 32 million are in copyright. Of these, some 27 million are out of print.
+Outside the US, Google has made sure only to scan books that are out of copyright and thus in the "public domain" (works such as the Bodleian's first edition of Middlemarch, which anyone can read for free on Google Books Search).
+But, within the US, the company has scanned both in-copyright and out-of-copyright works. In its defence, Google points out that it displays only small segments of books that are in copyright– arguing that such displays are "fair use". But critics allege that by making electronic copies of these books without first seeking the permission of copyright holders, Google has committed piracy.
+"The key principle of copyright law has always been that works can be copied only once authors have expressly given their permission," says Piers Blofeld, of the Sheil Land literary agency in London. "Google has reversed this – it has simply copied all these works without bothering toask."
+In 2005, the Authors Guild of America, together with a group of US publishers, launched a class action suit (集团诉讼) against Google that, after more than two years of negotiation, ended with an announcement last October that Google and the claimants had reached an out-of-court settlement. The full details are complicated - the text alone runs to 385 pages– and trying to sum arise it is no easy task. "Part of the problem is that it is basically incomprehensible," says Blofeld, one of the settlement's most vocal British critics.
+Broadly, the deal provides a mechanism for Google to compensate authors and publishers whose rights it has breached (including giving them a share of any future revenue it generates from their works). In exchange for this, the rights holders agree not to sue Google in future.
+This settlement hands Google the power - but only with the agreement of individual rights holders – to exploit its database of out-of-print books. It can include them in subscription deals sold to libraries or sell them individually under a consumer licence. It is these commercial provisions that are proving the settlement's most controversial aspect.
+Critics point out that, by giving Google the right to commercially exploit its database, the settlement paves the way for a subtle shift in the company's role from provider of information to seller. "Google's business model has always been to provide information for free, and sell advertising on the basis of the traffic this generates," points out James Grimmelmann, associate professor at New York Law School. Now, he says, because of the settlement's provisions, Google could become a significant force in bookselling.
+Interest in this aspect of the settlement has focused on "orphan" works, where there is noknown copyright holder – these make up an estimated 5-10% of the books Google has scanned. Under the settlement, when no rights holders come forward and register their interest in a work, commercial control automatically reverts to Google. Google will be able to display up to 20% of orphan works for free, include them in its subscription deals to libraries and sell them to individual buyers under the consumer licence.
+It is by no means certain that the settlement will be enacted (执行) – it is the subject of a fairness hearing in the US courts. But if it is enacted, Google will in effect be off the hook as far as copyright violations in the US are concerned. Many people are seriously concerned by this - and the company is likely to face challenges in other courts around the world.
+No one knows the precise use Google will make of the intellectual property it has gained by scanning the world's library books, and the truth, as Gleick, an American science writer and member of the Authors Guild, points out, is that the company probably doesn't even know itself. But what is certain is that, in some way or other, Google's entrance into digital bookselling will have a significant impact on the book world in the years to come.
+注意：此部分试题请在答题卡1上作答。
+1. Google claims its plan for the world's biggest online library is _____.
+A)  to serve the interest of the general public
+B)  to encourage reading around the world
+C)  to save out-of-print books in libraries
+D)  to promote its core business of searching
+2. According to Santiago de la Mora, Google's book-scanning project will _____.
+A)  broaden humanity's intellectual horizons
+B)  help the broad masses of readers
+C)  revolutionise the entire book industry
+D)  make full use of the power of its search engine
+3. Opponents of Google Books believe that digitally archiving the world's books should be controlled by _____.
+A)  non-profit organisations                               C) multinational companies
+B)  the world's leading libraries                          D) the world's tech giants
+4. Google has involved itself in a legal battle as it ignored _____.
+A)  the copyright of authors of out-of-print books
+B)  the copyright of the books it scanned
+C)  the interest of traditional booksellers
+D)  the differences of in-print and out-of-print books
+5. Google defends its scanning in-copyright books by saying that _____.
+A)  it displays only a small part of their content
+B)  it is willing to compensate the copyright holders
+C)  making electronic copies of books is not a violation of copyright
+D)  the online display of in-copyright books is not for commercial use
+6. What do we learn about the class action suit against Google?
+A)  It ended in a victory for the Authors Guild of America.
+B)  It was settled after more than two years of negotiation.
+C)  It failed to protect the interests of American publishers.
+D)  It could lead to more out-of-court settlements of such disputes.
+7. What remained controversial after the class action suit ended?
+A)  The compensation for copyright holders.
+B)  The change in Google's business model.
+C)  Google's further exploitation of its database.
+D)  The commercial provisions of the settlement.
+8. While _____, Google makes money by selling advertising.
+9. Books whose copyright holders are not known are called _____.
+10. Google's entrance into digital bookselling will tremendously _____ in the future.
+ 
+Part III Listening Comprehension          (35 minutes)
+Section A
+Directions: In this section, you will hear 8 short conversations and 2 long conversations. At the end of each conversation, one or more questions will be asked about what was said. Both the conversation and the questions will be spoken only once. After each question there will be a pause. During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer. Then mark the corresponding letter on Answer Sheet 2 with a single line through the centre.
+注意：此部分试题请在答题卡2上作答。
+11. A) Cancel the trip to prepare for the test.
+B)  Review his notes once he arrives in Chicago.
+C)  Listen to the recorded notes while driving.
+D)  Prepare for the test after the wedding.
+12. A) The woman will help the man remember the lines.
+B)  The man lacks confidence in playing the part.
+C)  The man hopes to change his role in the play.
+D)  The woman will prompt the man during the show.
+13. A) Preparations for an operation.                   C) Arranging a bed for a patient.
+B) A complicated surgical case.              D) Rescuing the woman's uncle.
+14. A) He is interested in improving his editing skills.
+B)  He is eager to be nominated the new editor.
+C)  He is sure to do a better job than Simon.
+D)  He is too busy to accept more responsibility.
+15. A) He has left his position in the government.
+B)  He has already reached the retirement age.
+C)  He made a stupid decision at the cabinet meeting.
+D)  He has been successfully elected Prime Minister.
+16. A) This year's shuttle mission is a big step in space exploration.
+B)  The man is well informed about the space shuttle missions.
+C)  The shuttle flight will be broadcast live worldwide.
+D)  The man is excited at the news of the shuttle flight.
+17. A) At an auto rescue center.                          C) At a suburban garage.
+B) At a car renting company.                         D) At a mountain camp.
+18. A) He got his speakers fixed.                         C) He listened to some serious music
+B) He went shopping with the woman.           D) He bought a stereo system.
+ 
+Questions 19 to 21 are based on the conversation you have just heard.
+19. A) Providing aid to the disabled.
+B)  Printing labels for manufactured goods.
+C)      Promoting products for manufacturers.
+D)     Selling products made for left-handers.
+20. A) Most of them are specially made for his shop.
+B)     All of them are manufactured in his own plant.
+C)     The kitchenware in his shop is of unique design.
+D)    About half of them are unavailable on the market.
+21. A) They specialise in one product only.           C) They run chain stores in central London.
+B) They have outlets throughout Britain.          D) They sell by mail order only.
+ 
+Questions 22 to 25 are based on the conversation you have just heard.
+22. A) It publishes magazines.                             C) It runs sales promotion campaigns.
+B) It sponsors trade fairs.                              D) It is engaged in product design.
+23. A) The ad specifications had not been given in detail.
+B)      The woman's company made last-minute changes.
+C)      The woman's company failed to make payments in time.
+D)     Organising the promotion was really time-consuming.
+24. A) Extend the campaign to next year.             C) Run another four-week campaign.
+B) Cut the fee by half for this year.                D) Give her a 10 percent discount.
+25. A) Stop negotiating for the time being.          C) Reflect on their respective mistakes
+B) Calm down and make peace.                      D) Improve their promotion plans.
+ 
+Section B
+Directions: In this section, you will hear 3 short passages. At the end of each passage, you will hear some questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 2 with a single line through the centre.
+注意：此部分试题请在答题卡2上作答。
+Passage One
+Questions 26 to 29 are based on the passage you have just heard.
+26. A) They look spotlessly clean throughout their lives.
+B)      They are looked after by animal-care organizations.
+C)      They sacrifice their lives for the benefit of humans.
+D)     They are labeled pet animals by the researchers.
+27. A) They may affect the results of experiments.
+B)      They may behave abnormally.
+C)      They may breed out of control.
+D)     They may cause damage to the environment.
+28. A) When they become escapees.                     C) When they get too old.
+B) When they are no longer useful.                 D) When they become ill.
+29. A) While launching animal protection campaigns, they were trapping kitchen mice.
+B)      While holding a burial ceremony for a pet mouse, they were killing pest mice.
+C)      While advocating freedom for animals, they kept their pet mouse in a cage.
+D)     While calling for animal rights, they allowed their kids to keep pet animals.
+ 
+Passage Two
+Questions 30 to 32 are based on the passage you have just heard.
+30. A) They take it for granted.                           C) They contribute most to it.
+B) They are crazy about it.                             D) They often find fault with it.
+31. A) Heat and light.                                        C) Historical continuity.
+B) Economic prosperity.                                D) Tidal restlessness.
+32. A) They find the city alien to them.
+B)  They are adventurers from all over the world.
+C)      They lack knowledge of the culture of the city.
+D)     They have difficulty surviving.
+ 
+Passage Three
+Questions 33 to 35 are based on the passage you have just heard.
+33. A) A political debate.                                   C) A documentary.
+B) A football game.                                      D) A murder mystery.
+34. A) It enhances family relationships.               C) It helps broaden one’s horizons.
+B) It is a sheer waste of time.                         D) It is unhealthy for the viewers.
+35. A) He watches TV programs only selectively.
+B)  He can't resist the temptation of TV either.
+C)      He doesn't like watching sports programs.
+D)     He is not a man who can keep his promise.
+ 
+Section C
+Directions: In this section, you will hear a passage three times. When the passage is read for the first time, you should listen carefully for its general idea. When the passage is read for the second time, you are required to fill in the blanks numbered from 36 to 43 with the exact words you have just heard. For blanks numbered from 44 to 46 you are required to fill in the missing information. For these blanks, you can either use the exact words you have just heard or write down the main points in your own words. Finally, when the passage is read for the third time, you should check what you have written.
+注意：此部分试题请在答题卡2上作答。
+In the past, one of the biggest disadvantages of machines has been their inability to work on a micro-scale. For example, doctors did not have devices allowing them to go inside the human body to (36) _____ health problems or to perform (37) _____ surgery. Repair crews did not have a way of (38) _____ broken pipes located deep within a high-rise (39) _____ building. However, that's about to change. Advances in computers and biophysics have started a microminiature (超微) (40) _____that allows scientists to envision – and in some cases actually build – microscopic machines. These devices promise to (41)_____ change the way we live and work.
+Micromachines already are making an impact. At Case Western Reserve University in Cleveland, Ohio, research scientists have designed a 4-inch silicon chip that holds 700 tiny (42) _____motors. At Lucas Nova Sensor in Fremont, California, scientists have perfected the world's first
+microscopic blood-pressure sensor. Threaded through a person's blood (43) _____, the sensor can provide blood pressure readings at the valve of the heart itself.
+(44) ______________________________________________________________________. Auto manufacturers, for example, are trying to use tiny devices_______________________________________________________
+(45)___________________________________________________________________________. Some futurists envision nanotechnology (纳米技术) also being used to explore the deep sea in small submarines, or even to launch finger-sized rockets packed with microminiature instruments.
+There is an explosion of new ideas and applications. So, (46) _____________________________
+____________________________________________________________.
+ 
+ 
+Part IV  Reading Comprehension (Reading in Depth) (25 minutes)
+Section A
+Directions: In this section, there is a short passage with 5 questions or incomplete statements. Read the passage carefully. Then answer the questions or complete the statements in the fewest possible words. Please write your answers on Answer Sheet 2.
+Questions 47 to 51 are based on the following passage.
+Leadership is the most significant word in today's competitive business environment because it directs the manager of a business to focus inward on their personal capabilities and style. Experts on leadership will quickly point out that "how things get done" influences the success of the outcomes and indicates a right way and a wrong way to do things. When a noted leader on the art of management, Peter Drucker, coined the phrase "Management is doing things right; leadership is doing the right things," he was seeking to clarify the distinctions he associates with the terms.
+When Stephen Covey, founder and director of the Leadership Institute, explored leadership styles in the past decade, he focused on the habits of a great number of highly effective individuals. His Seven Habits of Highly Effective People became a popular bestseller very quickly. His ideas forced a reexamination of the early leadership paradigm (范例), which he observed centered on traits found in the character ethic and the personality ethic. The former ethic suggested success was founded on integrity, modesty, loyalty, courage, patience, and so forth. The personality ethic suggested it was one's attitude, not behavior, that inspired success, and this ethic was founded on a belief of positive mental attitude. In contrast to each of these ideas, Covey advocates that leaders need to understand universal principles of effectiveness, and he highlights how vital it is for leaders to first personally manage themselves if they are to enjoy any hope of outstanding success in their work environments. To achieve a desired vision for your business, it is vital that you have a personal vision of where you are headed and what you value. Business leadership means that managers need to "put first things first," which implies that before leading others, you need to be clear on your own values, abilities, and strengths and be seen as trustworthy.
+注意：此部分试题请在答题卡2上作答。
+47.   To be good leaders, managers must pay close attention to their own _____.
+48.   According to Peter Drucker, leaders should be good at _____.
+49.   The personality ethic suggests that people are likely to succeed if they have _____.
+50.   According to Stephen Covey, leaders who hope to achieve outstanding success need first of all to _____.
+51.   Good leadership requires one to know one's own strengths and be able to win people's _____.
+ 
+Section B
+Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.
+Passage One
+Questions 52 to 56 are based on the following passage.
+What's the one word of advice a well-meaning professional would give to a recent college graduate? China"} India! Brazil! How about trade!
+When the Commerce Department reported last week that the trade deficit in June approached $50 billion, it set off a new round of economic doom saying. Imports, which soared to $200.3 billion in the month, are subtracted in the calculation of gross domestic product. The larger the trade deficit, the smaller the GDP. Should such imbalances continue, pessimists say, they could contribute to slower growth.
+But there's another way of looking at the trade data. Over the past two years, the figures on imports and exports seem not to signal a double-dip recession – a renewed decline in the broad level of economic activity in the United States – but an economic expansion.
+The rising volume of trade – more goods and services shuttling in and out of the United States – is good news for many sectors. Companies engaged in shipping, trucking, rail freight, delivery,                                                            
+and logistics (物流) have all been reporting better than expected results. The rising numbers signify growing vitality in foreign markets – when we import more stuff, it puts more cash in the hands of people around the world, and U.S. exports are rising because more foreigners have the ability to buy the things we produce and market. The rising tide of trade is also good news for people who work in trade-sensitive businesses, especially those that produce commodities for which global demand sets the price – agricultural goods, mining, metals, oil.
+And while exports always seem to lag, U.S. companies are becoming more involved in the global economy with each passing month. General Motors sells as many cars in China as in America each month. While that may not do much for imports, it does help GM's balance sheet – and hence makes the jobs of U.S.-based executives more stable.
+One great challenge for the U.S. economy is slack domestic consumer demand. Americans are
+paying down debt, saving more, and spending more carefully. That's to be expected, given what we've been through. But there's a bigger challenge. Can U.S.-based businesses, large and small, figure out how to get a piece of growing global demand? Unless you want to pick up and move to India, or Brazil, or China, the best way to do that is through trade. It may seem obvious, but it's no longer enough simply to do business with our friends and neighbors here at home.
+Companies and individuals who don't have a strategy to export more, or to get more involved in foreign markets, or to play a role in global trade, are shutting themselves out of the lion's share of economic opportunity in our world.
+注意：此部分试题请在答题卡2上作答。
+52. How do pessimists interpret the U.S. trade deficit in June?
+A)  It reflects Americans' preference for imported goods.
+B)  It signifies a change in American economic structure.
+C)  It is the result of America's growing focus on domestic market.
+D)  It could lead to slower growth of the national economy.
+53. What does the author say about the trade data of the past two years?
+A)  It indicates that economic activities in the U.S. have increased.
+B)  It shows that U.S. economy is slipping further into recession.
+C)      It signals decreasing domestic demand for goods and services.
+D)     It reflects the fluctuations in the international market.
+54. Who particularly benefit from the rising volume of trade?
+A)  People who have expertise in international trade.
+B)  Consumers who favor imported goods and services.
+C)      Producers of agricultural goods and raw materials.
+D)     Retailers dealing in foreign goods and services.
+55. What is one of the challenges facing the American economy?
+A)  Competition from overseas.                             C) Slack trade activities.
+B)  People's reluctance to spend.                            D) Decreasing productivity.
+56. What is the author's advice to U.S. companies and individuals?
+A)  To import more cheap goods from developing countries.
+B)  To move their companies to where labor is cheaper.
+C)      To increase their market share overseas.
+D)     To be alert to fluctuations in foreign markets.
+ 
+Passage Two
+Questions 57 to 61 are based on the following passage.
+A recurring criticism of the UK's university sector is its perceived weakness in translating new knowledge into new products and services.
+Recently, the UK National Stem Cell Network warned the UK could lose its place among the world leaders in stem cell research unless adequate funding and legislation could be assured. We should take this concern seriously as universities are key in the national innovation system.
+However, we do have to challenge the unthinking complaint that the sector does not do enough in taking ideas to market. The most recent comparative data on the performance of universities and research institutions in Australia, Canada, USA and UK shows that, from a relatively weak starting position, the UK now leads on many indicators of commercialisation activity.
+When viewed at the national level, the policy interventions of the past decade have helped transform the performance of UK universities. Evidence suggests the UK's position is much stronger than in the recent past and is still showing improvement. But national data masks the very large variation in the performance of individual universities. The evidence shows that a large number of universities have fallen off the back of the pack, a few perform strongly and the rest chase the leaders.
+This type of uneven distribution is not peculiar to the UK and is mirrored across other economies. In the UK, research is concentrated: less than 25% of universities receive 75% of the research funding. These same universities are also the institutions producing the greatest share of PhD graduates, science citations, patents and licence income. The effect of policies generating long-term resource concentration has also created a distinctive set of universities which are research-led and commercially active. It seems clear that the concentration of research and commercialisation work creates differences between universities.
+The core objective for universities which are research-led must be to maximise the impact of their research efforts. These universities should be generating the widest range of social, economic and environmental benefits. In return for the scale of investment, they should share their expertise in order to build greater confidence in the sector.
+Part of the economic recovery of the UK will be driven by the next generation of research commercialisation spilling out of our universities. There are three dozen universities in the UK which are actively engaged in advanced research training and commercialisation work.
+If there was a greater coordination of technology transfer offices within regions and a simultaneous investment in the scale and functions of our graduate schools, universities could, and should, play a key role in positioning the UK for the next growth cycle.
+注意：此部分试题请在答题卡2上作答。
+57. What does the author think of UK universities in terms of commercialisation?
+A)     They fail to convert knowledge into money.
+B)      They do not regard it as their responsibility.
+C)      They still have a place among the world leaders.
+D)     They have lost their leading position in many ways.
+58. What does the author say about the national data on UK universities' performance in commercialisation?
+A)     It masks the fatal weaknesses of government policy.
+B)      It does not rank UK universities in a scientific way.
+C)      It does not reflect the differences among universities.
+D)     It indicates their ineffective use of government resources.
+59. We can infer from Paragraph 5 that "policy interventions" (Line 1, Para. 4) refers to _____.
+A)     government aid to non-research-oriented universities
+B)      compulsory cooperation between universities and industries
+C)      fair distribution of funding for universities and research institutions
+D)     concentration of resources in a limited number of universities
+60. What does the author suggest research-led universities do?
+A)     Publicise their research to win international recognition.
+B)      Fully utilise their research to benefit all sectors of society.
+C)      Generously share their facilities with those short of funds.
+D)     Spread their influence among top research institutions.
+61. How can the university sector play a key role in the UK's economic growth?
+A)     By establishing more regional technology transfer offices.
+B)      By asking the government to invest in technology transfer research.
+C)      By promoting technology transfer and graduate school education.
+D)     By increasing the efficiency of technology transfer agencies.
+  
+Part V Cloze                  (15 minutes)
+Directions: There are 20 blanks in the following passage. For each blank there are four choices marked A), B), C) and D) on the right side of the paper. You should choose the ONE that best fits into the passage. Then mark the corresponding letter on Answer Sheet 2 with a single line through the centre.
+注意：此部分试题请在答题卡2上作答。
+If you know where to find a good plastic-free shampoo, can you tell Jeanne Haegele? Last September, the 28-year-old Chicago resident __62__ to cut plastics out of her life. The marketing coordinator was concerned about __63__ the chemicals coming out of some common types of plastic might be doing to her body. She was also worried about the damage all the plastic __64__ was doing to the environment. So she __65__ on her bike and rode to the nearest grocery store to see what she could find that didn't __66__ plastic. "I went in and __67__ bought anything," Haegele says. She did __68__ some canned food and a carton (纸盒) of milk – to discover later that both containers were __70__ with plastic resin (树脂). "Plastic," she says, "just seemed like it was in everything."
+She's right. Back in the 1960s, plastic was well __71__ its way to becoming a staple of American life. The U.S. produced 28 million tons of plastic waste in 2005 – 27 million tons of which __72__ in landfills (垃圾填埋场). Our food and water come __73__ in plastic. It's used in our phones and our computers, the cars we drive and the planes we ride in. But the __74__ adaptable substance has its dark side. Environmentalists feel worried about the petroleum needed to make it. Parents worry about the possibility of __75__ chemicals making their way from 76plastic into children's bloodstreams. Which means Haegele isn't the only person trying to cut plastic out of her life – she isn't __77__ the only one blogging about this kind of __78__. But those who've tried know it's __79__ from easy to go plastic-free. "These things seem to be so common __80__ it is practically impossible to avoid coming into __81__ with them," says Frederick vom Saal, a biologist at the University of Missouri.
+62. A) resolved         B) recovered         C) removed         D) retreated
+63. A) when            B) what                   C) who          D) why
+64. A) essence           B) unit                  C) crust            D) rubbish
+65. A) hinged               B) hopped           C) stretched           D) dipped
+66. A) include              B) induce            C) compose           D) consist
+67. A) slightly              B) nearly          C) roughly             D) barely
+68. A) pursue               B) prescribe        C) preserve            D) purchase
+69. A) rather            B) ever                  C) merely              D) only
+70. A) probed              B) coupled          C) lined                 D) combined
+71. A) by                 B) over                 C) on                    D) under
+72. A) ended up       B) pulled up          C) put up          D) set up
+73. A) trapped              B) adapted            C) wrapped            D) adopted
+74. A) interactively       B) remotely           C) infinitely           D) resolutely
+75.  A) sensible             B) toxic                 C) attractive           D) absurd
+76.       A) household   B) family              C) internal             D) civil
+77.       A) hardly               B) largely              C) even                 D) still
+78.       A) endeavor    B) recreation          C) accomplishment D) diligence
+79.       A) well           B) little                 C) far                    D) much
+80.       A) while         B) which        C) but                   D) that
+81.       A) fashion              B) approach           C) contact              D) agreement
+ 
+Part VI           Translation                         (5 minutes)
+Directions: Complete the sentences by translating into English the Chinese given in brackets.Please write your translation on Answ&r Sheet 2.
+注意：此部分试题请在答题卡2上作答，只需写出译文部分。
+82. You shouldn't have run across the road without looking. You ______________________________ (也许会被车撞倒的).
+33. By no means ______________________________ (他把自己当成专家) although he knows a lot aboutthe field.
+84. He doesn't appreciate the sacrifice his friends have made for him,______________________________ (把他们所做的视作理所当然).
+85. Janet told me that she would rather her mother ______________________________ (不干涉她的婚姻).
+86. To keep up with the expanding frontiers of scholarship, Edward Wilson found himself______________________________ (经常上网查找信息).
+

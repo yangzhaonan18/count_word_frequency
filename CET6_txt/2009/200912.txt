@@ -1,0 +1,489 @@
+2009年12月大学英语六级(CET-6)真题试卷
+
+Part I 							  	Writing		 	   	   	(30 minutes) 
+Directions: For this part, you are allowed 30 minutes to write a short essay entitled Should Parents Send Their Kids to Art Classes? You should write at least 150 words following the outline given below.
+1. 现在有不少家长送孩子参加各种艺术班
+2. 对这种做法有人表示支持，也有人并不赞成
+3. 我认为……
+Should Parents Send Their Kids to Art Classes?
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+Part II		 Reading Comprehension (Skimming and Scanning)		 (15 minutes)
+Directions: In this part, you will have 15 minutes to go over the passage quickly and answer the questions on Answer Sheet 1. For questions 1-7, choose the best answer from the four choices marked [A], [B], [C] and [D]. For questions 8-10, complete the sentences with the information given in the passage.
+Bosses Say “Yes” to Home Work
+  Rising costs of office space, time lost to stressful commuting, and a slow recognition that workers have lives beyond the office—all are strong arguments for letting staff work from home.
+  For the small business, there are additional benefits too—staff are more productive, and happier, enabling firms to keep their headcounts (员工数) and their recruitment costs to a minimum. It can also provide competitive advantage, especially when small businesses want to attract new staff but don’t have the budget to offer huge salaries.
+  While company managers have known about the benefits for a long time, many have done little about it, skeptical of whether they could trust their employees to work to full capacity without supervision, or concerned about the additional expenses teleworking policies might incur as staff start charging their home phone bills to the business.
+  Yet this is now changing. When communications provider Inter-Tel researched the use of remote working solutions among small and medium sized UK businesses in April this year, it found that 28% more companies claimed to have introduced flexible working practices than a year ago.
+  The UK network of Business Links confirms that it too has seen a growing interest in remote working solutions from small businesses seeking its advice, and claims that as many as 60-70% of the businesses that come through its doors now offer some form of remote working support to their workforces.
+  Technology advances, including the widespread availability of broadband, are making the introduction of remote working a piece of cake.
+  “If systems are set up properly, staff can have access to all the resources they have in the office wherever they have an internet connection,” says Andy Poulton, e-business advisor at Business Link for Berkshire and Wiltshire. “There are some very exciting developments which have enabled this.”
+  One is the availability of broadband everywhere, which now covers almost all of the country (BT claims that, by July, 99.8% of its exchanges will be broadband enabled, with alternative plans in place for even the most remote exchanges). “This is the enabler,” Poulton says.
+  Yet while broadband has come down in price too, those service providers targeting the business market warn against consumer services masquerading (伪装) as business friendly broadband.
+  “Broadband is available for as little as ￡15 a month, but many businesses fail to appreciate the hidden costs of such a service,” says Neil Stephenson, sales and marketing director at Onyx Internet, an internet service provider based in the northeast of England. “Providers offering broadband for rock bottom prices are notorious for poor service, with regular breakdowns and heavily congested (拥堵的) networks. It is always advisable for businesses to look beyond the price tag and look for a business only provider that can offer more reliability, with good support.” Such services don’t cost too much—quality services can be found for upwards of ￡30 a month.
+  The benefits of broadband to the occasional home worker are that they can access email in real time, and take full advantage of services such as internet based backup or even internet based phone services.
+  Internet based telecoms, or VoIP (Voice over IP) to give it its technical title, is an interesting tool to any business supporting remote working. Not necessarily because of the promise of free or reduced price phone calls (which experts point out is misleading for the average business), but because of the sophisticated voice services that can be exploited by the remote worker—facilities such as voicemail and call forwarding, which provide a continuity of the company image for customers and business partners.
+  By law, companies must “consider seriously” requests to work flexibly made by a parent with a child under the age of six, or a disabled child under 18. It was the need to accommodate employees with young children that motivated accountancy firm Wright Vigar to begin promoting teleworking recently. The company, which needed to upgrade its IT infrastructure (基础设施) to provide connectivity with a new, second office, decided to introduce support for remote working at the same time.
+  Marketing director Jack O Hern explains that the company has a relatively young workforce, many of whom are parents: “One of the triggers was when one of our tax managers returned from maternity leave. She was intending to work part time, but could only manage one day a week in the office due to childcare. By offering her the ability to work from home, we have doubled her capacity—now she works a day a week from home, and a day in the office. This is great for her, and for us as we retain someone highly qualified.”
+  For Wright Vigar, which has now equipped all of its fee earners to be able to work at maximum productivity when away from the offices (whether that’s from home, or while on the road), this strategy is not just about saving on commute time or cutting them loose from the office, but enabling them to work more flexible hours that fit around their home life.
+  O’Hern says: “Although most of our work is client-based and must fit around this, we can’t see any reason why a parent can’t be on hand to deal with something important at home, if they have the ability to complete a project later in the day.”
+  Supporting this new way of working came with a price, though. Although the firm was updating its systems anyway, the company spent 10-15% more per user to equip them with a laptop rather than a PC, and about the same to upgrade to a server that would enable remote staff to connect to the company networks and access all their usual resources.
+  Although Wright Vigar hasn’t yet quantified the business benefits, it claims that, in addition to being able to retain key staff with young families, it is able to save fee-earners a substantial amount of “dead” time in their working days.
+  That staff can do this without needing a fixed telephone line provides even more efficiency savings. “With Wi-Fi (fast, wireless internet connections) popping up all over the place, even on trains, our fee-earners can be productive as they travel, and between meetings, instead of having to kill time at the shops,” he adds.
+  The company will also be able to avoid the expense of having to relocate staff to temporary offices for several weeks when it begins disruptive office renovations soon.
+  Financial recruitment specialist Lynne Hargreaves knows exactly how much her firm has saved by adopting a teleworking strategy, which has involved handing her company’s data management over to a remote hosting company, Dataset, so it can be accessible by all the company’s consultants over broadband internet connections.
+  It has enabled the company to dispense with its business premises altogether, following the realization that it just didn’t need them any more. “The main motivation behind adopting home working was to increase my own productivity, as a single mum to an 11yearold,” says Hargreaves. “But I soon realised that, as most of our business is done on the phone, email and at offsite meetings, we didn’t need our offices at all. We’re now saving ￡16,000 a year on rent, plus the cost of utilities, not to mention what would have been spent on commuting.”
+1. What is the main topic of this passage?
+A) How business managers view hi-tech.       
+B) Relations between employers and employees.
+C) How to cut down the costs of small businesses.
+D) Benefits of the practice of teleworking.
+2. From the research conducted by the communications provider Inter-Tel, we learn that .
+A) more employees work to full capacity at home
+B) employees show a growing interest in small businesses
+C) more businesses have adopted remote working solutions
+D) attitudes toward IT technology have changed
+3. What development has made flexible working practices possible according to Andy Poulton?
+A) Reduced cost of telecommunications.
+B) Improved reliability of internet service.
+C) Availability of the VoIP service. 
+D) Access to broadband everywhere.
+4. What is Neil Stephenson’s advice to firms contracting internet services?
+A) They look for reliable business-only providers.
+B) They contact providers located nearest to them.
+C) They carefully examine the contract.
+D) They contract the cheapest provider.
+5. Internet-based telecoms facilitates remote working by .
+A) offering sophisticated voice services
+B) giving access to emailing in real time
+C) helping clients discuss business at home
+D) providing calls completely free of charge
+6. The accountancy firm Wright Vigar promoted teleworking initially in order to .
+A) present a positive image to prospective customers
+B) support its employees with children to take care of
+C) attract young people with IT expertise to work for it
+D) reduce operational expenses of a second office
+7. According to marketing director Jack O’Hern, teleworking enabled the company to .
+A) enhance its market image 
+B) reduce recruitment costs
+C) keep highly qualified staff
+D) minimize its office space
+8. Wright Vigar’s practice of allowing for more flexible working hours not only benefits the company but helps improve employees’ _________.
+9. With fast, wireless internet connections, employees can still be_______ while traveling.
+10. Single mother Lynne Hargreaves decided to work at home mainly to______..
+Part III 					 Listening Comprehension 				(35 minutes)
+Section A
+Directions: In this section, you will hear 8 short conversations and 2 long conversations. At the end of each conversation, one or more questions will be asked about what was said. Both the conversation and the questions will be spoken only once. After each question there will be a pause. During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer. Then mark the corresponding letter on Answer Sheet 2 with a single line through the centre.
+11. A) They would rather travel around than stay at home.
+   B) They prefer to carry cash when traveling abroad.
+   C) They usually carry many things around with them.
+   D) They don’t like to spend much money on traveling.
+12. A) The selection process was a little unfair.
+   B) He had long dreamed of the dean’s position.
+   C) Rod was eliminated in the selection process.
+   D) Rod was in charge of the admissions office.
+13. A) Applause encourages the singer. 
+   B) She regrets paying for the concert.
+   C) Almost everyone loves pop music.
+   D) The concert is very impressive.
+14. A) They have known each other since their schooldays.
+   B) They were both chairpersons of the Students’ Union.
+   C) They have been in close touch by email.
+   D) They are going to hold a reunion party.
+15. A) Cook their dinner.
+   B) Rest for a while.
+   C) Get their car fixed.
+   D) Stop for the night.
+16. A) Newly-launched products.        B) Consumer preferences.
+   C) Survey results.                 D) Survey methods.
+17. A) He would rather the woman didn’t buy the blouse.
+   B) The woman needs blouses in the colors of a rainbow.
+   C) The information in the catalog is not always reliable.
+   D) He thinks the blue blouse is better than the red one.
+18. A) The course is open to all next semester.
+   B) The notice may not be reliable.
+   C) The woman has not told the truth.
+   D) He will drop his course in marketing.
+Questions 19 to 22 are based on the conversation you have just heard.
+19. A) A director of a sales department.        B) A manager at a computer store.
+   C) A sales clerk at a shopping center.       D) An accountant of a computer firm.
+20. A) Handling customer complaints.         B) Recruiting and training new staff.
+   C) Dispatching ordered goods on time.      D) Developing computer programs.
+21. A) She likes something more challenging.    B) She likes to be nearer to her parents.
+   C) She wants to have a better-paid job.       D) She wants to be with her husband.
+22. A) Right away.       B) In two months.
+   C) Early next month.  D) In a couple of days.
+Questions 23 to 25 are based on the conversation you have just heard.
+23. A) It will face challenges unprecedented in its history.
+   B) It is a resolute advocate of the anti-global movement.
+   C) It is bound to regain its full glory of a hundred years ago.
+   D) It will be a major economic power by the mid-21st century.
+24. A) The lack of overall urban planning.
+   B) The huge gap between the haves and have-nots.
+   C) The inadequate supply of water and electricity.
+   D) The shortage of hi-tech personnel.
+25. A) They attach great importance to education.
+   B) They are able to grasp growth opportunities.
+   C) They are good at learning from other nations.
+   D) They have made use of advanced technologies.
+Section B
+Directions:In this section, you will hear 3 short passages. At the end of each passage, you will hear some questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 2 with a single line through the centre.
+Passage One
+Questions 26 to 29 are based on the passage you have just heard.
+26. A) She taught chemistry and microbiology courses in a college.
+   B) She gave lectures on how to become a public speaker.
+   C) She helped families move away from industrial polluters.
+   D) She engaged in field research on environmental pollution.
+27. A) The job restricted her from revealing her findings.
+   B) The job posed a potential threat to her health.
+   C) She found the working conditions frustrating.
+   D) She was offered a better job in a minority community.
+28. A) Some giant industrial polluters have gone out of business.
+   B) More environmental organizations have appeared.
+   C) Many toxic sites in America have been cleaned up.
+   D) More branches of her company have been set up.
+29. A) Her widespread influence among members of Congress.
+   B) Her ability to communicate through public speaking.
+   C) Her rigorous training in delivering eloquent speeches.
+   D) Her lifelong commitment to domestic and global issues.
+Passage Two
+Questions 30 to 32 are based on the passage you have just heard.
+30. A) The fierce competition in the market.      B) The growing necessity of staff training.
+   C) The accelerated pace of globalization.      D) The urgent need of a diverse workforce.
+31. A) Gain a deep understanding of their own culture.
+   B) Take courses of foreign languages and cultures.
+   C) Share the experiences of people from other cultures.
+   D) Participate in international exchange programmes.
+32. A) Reflective thinking is becoming critical.      B) Labor market is getting globalised.
+   C) Knowing a foreign language is essential.         D) Globalization will eliminate many jobs.
+Passage Three
+Questions 33 to 35 are based on the passage you have just heard.
+33. A) Red-haired women were regarded as more reliable.
+   B) Brown-haired women were rated as more capable.
+   C) Golden-haired women were considered attractive.
+   D) Black-haired women were judged to be intelligent.
+34. A) They are smart and eloquent.
+   B) They are ambitious and arrogant.
+   C) They are shrewd and dishonest.
+   D) They are wealthy and industrious.
+35. A) They force people to follow the cultural mainstream.
+   B) They exaggerate the roles of certain groups of people.
+   C) They emphasize diversity at the expense of uniformity.
+   D) They hinder our perception of individual differences.
+Section C
+Directions: In this section, you will hear a passage three times. When the passage is read for the first time, you should listen carefully for its general idea. When the passage is read for the second time, you are required to fill in the blanks numbered from 36 to 43 with the exact words you have just heard. For blanks numbered from 44 to 46 you are required to fill in the missing information. For these blanks, you can either use the exact words you have just heard or write down the main points in your own words. Finally, when the passage is read for the third time, you should check what you have written.
+  The ancient Greeks developed basic memory systems called mnemonics. The name is (36)  from their Goddess of memory “Mnemosyne”. In the ancient world, a trained memory was an (37) asset, particularly in public life. There were no (38)  devices for taking notes, and early Greek orators(演说家) delivered long speeches with great (39)  because they learned the speeches using mnemonic systems.
+  The Greeks discovered that human memory is (40) an associative process—that it works by linking things together. For example, think of an apple. The (41) your brain registers the word “apple”, it (42) the shape, color, taste, smell and (43)  of that fruit. All these things are associated in your memory with the word “apple”.
+  (44) . An example could be when you think about a lecture you have had. This could trigger a memory about what you’re talking about through that lecture, which can then trigger another memory.
+  (45) . An example given on a website I was looking at follows: Do you remember the shape of Austria, Canada, Belgium, or Germany? Probably not. What about Italy, though? (46) . You made an association with something already known, the shape of a boot, and Italy’s shape could not be forgotten once you had made the association.
+
+Part IV		Reading Comprehension (Reading in Depth)			(25 minutes)
+Section A
+Directions: In this section, there is a short passage with 5 questions or incomplete statements. Read the passage carefully. Then answer the questions or complete the statements in the fewest possible words. Please write your answers on Answer Sheet 2.
+Questions 47 to 51 are based on the following passage.
+  Many countries have made it illegal to chat into a hand-held mobile phone while driving. But the latest research further confirms that the danger lies less in what a motorist’s hands do when he takes a call than in what the conversation does to his brain. Even using a “hands-free” device can divert a driver’s attention to an alarming extent.
+  Melina Kunar of the University of Warwick and Todd Horowitz of the Harvard Medical School ran a series of experiments in which two groups of volunteers had to pay attention and respond to a series of moving tasks on a computer screen that were reckoned equivalent in difficulty to driving. One group was left undistracted while the other had to engage in a conversation using a speakerphone. As Kumar and Horowitz report, those who were making the equivalent of a hands-free call had an average reaction time 212 milliseconds slower than those who were not. That, they calculate, would add 5.7 metres to the braking distance of a car travelling at 100kph. They also found that the group using the hands-free kit made 83% more errors in their tasks than those who were not talking.
+  To try to understand more about why this was, they tried two further tests. In one, members of a group were asked simply to repeat words spoken by the caller. In the other, they had to think of a word that began with the last letter of the word they had just heard. Those only repeating words performed the same as those with no distraction, but those with the more complicated task showed even worse reaction times—an average of 480 milliseconds extra delay. This shows that when people have to consider the information they hear carefully, it can impair their driving ability significantly.
+  Punishing people for using handheld gadgets while driving is difficult enough, even though they can be seen from outside the car. Persuading people to switch their phones off altogether when they get behind the wheel might be the only answer. Who knows, they might even come to enjoy not having to take calls.
+47.	Carrying on a mobile phone conversation while one is driving is considered dangerous because it seriously distracts _______________________.
+48.	In the experiments, the two groups of volunteers were asked to handle a series of moving tasks which were considered _______________________.
+49.	Results of the experiments show that those who were making the equivalent of a hands-free call took _______________________ to react than those who were not.
+50.	Further experiments reveal that participants tend to respond with extra delay if they are required to do _______________________.
+51.	The author believes persuasion, rather than _______________________, might be the only way to stop people from using mobile phones while driving.
+Section B
+Directions:There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.
+Passage One
+Questions 52 to 56 are based on the following passage.
+  There is nothing like the suggestion of a cancer risk to scare a parent, especially one of the over-educated, eco-conscious type. So you can imagine the reaction when a recent USA Today investigation of air quality around the nation’s schools singled out those in the smugly（自鸣得意的）green village of Berkeley, Calif., as being among the worst in the country. The city’s public high school, as well as a number of daycare centers, preschools, elementary and middle schools, fell in the lowest 10%. Industrial pollution in our town had supposedly turned students into living science experiments breathing in a laboratory’s worth of heavy metals like manganese, chromium and nickel each day. This in a city that requires school cafeterias to serve organic meals. Great, I thought, organic lunch, toxic campus.
+  Since December, when the report came out, the mayor, neighborhood activists（活跃分子）and various parent-teacher associations have engaged in a fierce battle over its validity: over the guilt of the steel-casting factory on the western edge of town, over union jobs versus children’s health and over what, if anything, ought to be done. With all sides presenting their own experts armed with conflicting scientific studies, whom should parents believe? Is there truly a threat here, we asked one another as we dropped off our kids, and if so, how great is it? And how does it compare with the other, seemingly perpetual health scares we confront, like panic over lead in synthetic athletic fields? Rather than just another weird episode in the town that brought you protesting environmentalists, this latest drama is a trial for how today’s parents perceive risk, how we try to keep our kids safe—whether it’s possible to keep them safe—in what feels like an increasingly threatening world. It raises the question of what, in our time, “safe” could even mean.
+  “There’s no way around the uncertainty,” says Kimberly Thompson, president of Kid Risk, a nonprofit group that studies children’s health. “That means your choices can matter, but it also means you aren’t going to know if they do.” A 2004 report in the journal Pediatrics explained that nervous parents have more to fear from fire, car accidents and drowning than from toxic chemical exposure. To which I say: Well, obviously. But such concrete hazards are beside the point. It’s the dangers parents can’t—and may never—quantify that occur all of sudden. That’s why I’ve rid my cupboard of microwave food packed in bags coated with a potential cancer-causing substance, but although I’ve lived blocks from a major fault line(地质断层) for more than 12 years, I still haven’t bolted our bookcases to the living room wall.
+52. What does a recent investigation by USA Today reveal?
+A) Heavy metals in lab tests threaten children’s health in Berkeley.
+B) Berkeley residents are quite contented with their surroundings.
+C) The air quality around Berkeley’s school campuses is poor.
+D) Parents in Berkeley are over-sensitive to cancer risks their kids face.
+53. What response did USA Today’s report draw?
+A) A heated debate.       B) Popular support.
+C) Widespread panic.     D) Strong criticism.
+54. How did parents feel in the face of the experts’ studies?
+A) They felt very much relieved.         B) They were frightened by the evidence.
+C) They didn’t know who to believe.      D) They weren’t convinced of the results.
+55. What is the view of the 2004 report in the journal Pediatrics?
+A) It is important to quantify various concrete hazards.
+B) Daily accidents pose a more serious threat to children.
+C) Parents should be aware of children’s health hazards.
+D) Attention should be paid to toxic chemical exposure.
+56. Of the dangers in everyday life, the author thinks that people have most to fear from .
+A) the uncertain      B) the quantifiable
+C) an earthquake     D) unhealthy food
+Passage Two
+Questions 57 to 61 are based on the following passage.
+  Crippling health care bills, long emergency-room waits and the inability to find a primary care physician just scratch the surface of the problems that patients face daily.
+  Primary care should be the backbone of any health care system. Countries with appropriate primary care resources score highly when it comes to health outcomes and cost. The U.S. takes the opposite approach by emphasizing the specialist rather than the primary care physician.
+  A recent study analyzed the providers who treat Medicare beneficiaries（老年医保受惠人）. The startling finding was that the average Medicare patient saw a total of seven doctors—two primary care physicians and five specialists—in a given year. Contrary to popular belief, the more physicians taking care of you don’t guarantee better care. Actually, increasing fragmentation of care results in a corresponding rise in cost and medical errors.
+  How did we let primary care slip so far? The key is how doctors are paid. Most physicians are paid whenever they perform a medical service. The more a physician does, regardless of quality or outcome, the better he’s reimbursed (返还费用). Moreover, the amount a physician receives leans heavily toward medical or surgical procedures. A specialist who performs a procedure in a 30minute visit can be paid three times more than a primary care physician using that same 30 minutes to discuss a patient’s disease. Combine this fact with annual government threats to indiscriminately cut reimbursements; physicians are faced with no choice but to increase quantity to boost income.
+  Primary care physicians who refuse to compromise quality are either driven out of business or to cash-only practices, further contributing to the decline of primary care.
+  Medical students are not blind to this scenario. They see how heavily the reimbursement deck is stacked against primary care. The recent numbers show that since 1997, newly graduated U.S. medical students who choose primary care as a career have declined by 50%. This trend results in emergency rooms being overwhelmed with patients without regular doctors.
+  How do we fix this problem?
+  It starts with reforming the physician reimbursement system. Remove the pressure for primary care physicians to squeeze in more patients per hour, and reward them for optimally (最佳地) managing their diseases and practicing evidence-based medicine. Make primary care more attractive to medical students by forgiving student loans for those who choose primary care as a career and reconciling the marked difference between specialist and primary care physician salaries.
+  We’re at a point where primary care is needed more than ever. Within a few years, the first wave of the 76 million Baby Boomers will become eligible for Medicare. Patients older than 85, who need chronic care most, will rise by 50% this decade.
+  Who will be there to treat them?
+57. The author’s chief concern about the current U.S. health care system is .
+A) the inadequate training of physicians       B) the declining number of doctors
+C) the shrinking primary care resources        D) the ever-rising health care costs
+58. We learn from the passage that people tend to believe that .
+A) the more costly the medicine, the more effective the cure
+B) seeing more doctors may result in more diagnostic errors
+C) visiting doctors on a regular basis ensures good health
+D) the more doctors taking care of a patient, the better
+59. Faced with the government threats to cut reimbursements indiscriminately, primary care physicians have to .
+A) increase their income by working overtime    B) improve their expertise and service
+C) make various deals with specialists          D) see more patients at the expense of quality
+60. Why do many new medical graduates refuse to choose primary care as their career?
+A) They find the need for primary care declining.
+B) The current system works against primary care.
+C) Primary care physicians command less respect.
+D) They think working in emergency rooms tedious.
+61. What suggestion does the author give in order to provide better health care?
+A) Bridge the salary gap between specialists and primary care physicians.
+B) Extend primary care to patients with chronic diseases.
+C) Recruit more medical students by offering them loans.
+D) Reduce the tuition of students who choose primary care as their major.
+Part V									Cloze								(15 minutes)
+Directions: There are 20 blanks in the following passage. For each blank there are four choices marked A), B), C) and D) on the right side of the paper. You should choose the ONE that best fits into the passage. Then mark the corresponding letter on Answer Sheet 2 with a single line through the centre.
+  McDonald’s, Greggs, KFC and Subway are today named as the most littered brands in England as Keep Britain Tidy called on fast-food companies to do more to tackle customers who drop their wrappers and drinks cartons (盒子) in the streets.
+  Phil Barton, chief executive of Keep Britain Tidy, 62  its new Dirty Pig campaign, said it was the first time it had investigated which  63  made up “littered England” and the same names appeared again and again. “We  64  litterers for 
+dropping this fast food litter  65  the first place but also believe the results have pertinent (相关的) messages for the fast food  66  . McDonald’s, Greggs, KFC and Subway need to do more to  67  littering by their customers.”
+  He recognized efforts made by McDonald’s,  68  placing litter bins and increasing litter patrols, but its litter remained “all too prevalent”. All fast food chains should reduce 69  packaging, he added. Companies could also reduce prices  70  those who stayed to eat food on their premises, offer money-off vouchers (代金券) or other  71  for those who returned packaging and put more bins at  72  points in local streets, not just outside their premises. A  73  for McDonald’s said: “We do our best. Obviously we ask all our customers to dispose of litter responsibly.” Trials of more extensive, all-day litter patrols were  74  in Manchester and Birmingham. 
+KFC said it took its  75  on litter management “very seriously”, and would introduce a programme to reduce packaging  76  many products. Subway said that it worked hard to  77  the impact of litter on communities，78  it was “still down to the  79  customer to dispose of their litter responsibly”. Greggs said it recognized the “continuing challenge for us all”, 80  having already taken measures to help  81  the issue.
+62. A) elevating    B) convening    C) launching      D) projecting
+63. A) signals      B) signs        C) commercials     D) brands
+64. A) condemn    B) refute        C) uncover         D) disregard
+65. A) around        B) toward       C) in              D) off
+66. A) industry       B) career        C) profession       D) vocation
+67. A) exclude        B) discourage    C) suppress        D) retreat
+68. A) incorporating   B) including     C) comprising       D) containing
+69. A) unreliable      B) unrelated      C) unimportant      D) unnecessary
+70. A) for            B) about        C) with            D) to
+71. A) accessories      B) merits       C) incentives       D) dividends
+72. A) curious         B) mysterious    C) strange         D) strategic
+73. A) narrator        B) spokesman    C) mediator        D) broker
+74. A) in season       B) at risk        C) off hand         D) under way
+75. A) responsibility    B) liability       C) commission     D) administration
+76. A) around         B) by           C) on             D) above
+77. A) divert          B) minimize      C) degrade        D) suspend
+78. A) if             B) whether       C) so             D) but
+79. A) individual      B) concrete       C) unique         D) respective
+80. A) except         B) without        C) despite         D) via
+81. A) deal           B) tackle         C) cope           D) dispose
+Part VI							Translation							(5 minutes)
+Directions: Complete the sentences by translating into English the Chinese given in brackets. Please write your translation on Answer Sheet 2.
+82. How long does a jacket like this last me? — (这要看你多长时间穿一次).
+83. The theory he advanced has proved (对许多传统概念的一种挑战).
+84. The manager  (本可以亲自参加会议), but he was called away for some urgent business abroad.
+85. Both research and practical experience have shown that a (均衡的饮食对健康是必不可少的).
+86. Much (我感到遗憾), I was unable to finish the work on time.
+
+
+2009年12月大学英语六级(CET-6)参考答案
+
+Part Ⅰ Writing
+1. 现在有不少家长送孩子参加各种艺术班
+2. 对这种做法有人表示支持，也有人并不赞成
+3. 我认为……
+
+范文1
+Should Parents Send Their Kids to Art Classes 
+Children are the future of the nation, the pearl in their parents’ eyes. Hoping that their kids can become the cream of the crop among others, more and more parents send their kids to various art classes to let them learn more. However, people hold different opinions toward this phenomenon. 
+Some people hold a firm position that it is a beneficial thing for kids to attend art classes. There, kids can not only learn some art skills that may helpful for them someday, they can also get a chance to expand their interests to a great extent, and their minds can also be broadened. Besides, kids can also make a lot of friends there, thus their communication skills may also be sharpened. While for the others, they hold an opposite opinion. They think parents should not send their kids to art classes blindly against kids’ will, because this will get a definitely negative impact on kids. Kids, in these parents’ eyes, should be given more flexible time to relax and do whatever they are interested in. And kids also need freedom because unacceptable art classes will absolutely eliminate the nature of kids. Thus, sending kids to these classes will undoubtedly hurt them. 
+Every coin has two sides. As far as I am concerned, I think children’s interests should be taken into careful consideration before being sent to art classes. Children should be given enough freedom to develop by themselves. Whether parents should send their kids to art classes, it depends. 
+范文2
+Should parents send their kids to art classes? 
+With the development of our society and economy, parents become more concerned about the future competition of children , so more and more parents manage kinds of ways to enhance the ability of children in every aspects , like they sent their children to art class after school or at weekends in order to promise their kids a more competitive future. 
+The majority parents have the above view on this issue, believing it is a good way to cultivate the children’s interests and hobbies, paving their future path in life .while there are also some people who think that this will give kids heavy burden, not really good for their growth. 
+In my opinion, we should respect our kids and do something to child's own interests and hobbies rather than blindness. Second, do not give too much pressure on kids, giving them a healthy environment for growth is much more than attending art classes.
+范文3
+Should parents send their kids to art classes? 
+Nowadays，it has been common that parents send their kids to various art classes such as music, drawing dancing ,etc. at weekend or during holiday. 
+Some people take it for granted and think through this method, their kids can make use of leisure time to learn more skills and be prepared for the future fierce competition in the adult world. Nevertheless, there are still some sounds against this phenomenon, saying that it shouldn’t be encouraged. 
+As far as I’m concerned, I stand by the latter side, because its disadvantages far outweigh than the advantages. Above all, for children, play is their nature. It will do great harm to both their physical and mental health if they are deprived of the right to have enough free time. For another thing, most kids are sent to art schools to learn thing they are not even interested in. Consequently, they will be reluctant to cooperate with the teachers resulting only in the waste of time and energy. Thus, obviously, it is better to set children free to do things in which they passion actually lies, rather than forcing then to go to art classes.
+
+快速阅读答案： 
+1. B (benefits …) 
+2. C (more businesses) 
+3. B (improved …) 
+4. B (they look for) 
+5. A (offering …) 
+6. D (support …) 
+7. B (keep …) 
+8. home life 
+9. productive 
+10. improve productivity 
+
+
+听力复合式听写答案
+36. derived 
+37. immense　 
+38. convenient　 
+39. accuracy 
+40. largely 
+41. instant 
+42. recalls 
+43. texture 
+44. This means that any thought about a certain subject will bring up some memory that is related to it 
+45. Associations do not have to be logical they just have to make a link 
+46. If you remember the shape of Italy it is because you have been told sometime that Italy is shaped like a boot 
+
+Part IV Reading Comprehension(Reading in Depth)  (25minutes)
+快速阅读答案
+  47. a driver’s attention
+  48. equivalent in difficulty to driving
+  49. more time
+  50. carful thinking/consideration
+  51. punishing 
+52-56 CACBA   57-62 CBDBA
+
+完型填空答案 
+62 B) launching 
+63 D) brands 
+64 B) condemn　 
+65 A) in 
+66 C) industry 
+67 B) exclude 
+68 D) including 
+69 C) unnecessary 
+70 C) to 
+71 B) incentives 
+72 C) strategic 
+73 A) spokesman 
+74 D)underway 
+75 B) responsibility 
+76 B) on 
+77 C) minimize 
+78 C) so 
+79 C) individual 
+80 A) despite 
+81 D) tackle 
+
+翻译答案
+82. It depends on how often you wear it 
+83. a challenge to many traditional concepts 
+84. could have attended the meeting in person (by himself) 
+85. a balance diet is essential to health 
+86. regretted as I felt
+ 
+
+
+完整版答案解析(图片版)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+听力原文
+听力短对话
+11. W: Did you use credit cards on your vacation last month in Europe? 
+M: Sure did. They certainly beat going around with a wallet full of big bills. But carrying lots of cash is still very common among some older people travelling abroad. 
+Q: What does the man say about some elderly people? 
+12. W: Rod must be in a bad mood today. What’s wrong with him? 
+M: He was passed over in the selection process for the dean of the Administration’s Office. He’d been hoping for the position for a long time. 
+Q: What does the man mean? 
+13. M: What a great singer Justin is! His concert is just awesome and you’ll never regret the money you paid for the ticket. 
+W: Yeah, judging by the amount of applause, everyone was enjoying it. 
+Q: What does the woman mean? 
+14. W: I received an email yesterday from Henry. Do you remember he was one of the chairpersons of our Students’ Union? 
+M: Yes, but I haven’t heard from him for ages. Actually, I have been out of touch with him since our first reunion after graduation. 
+Q: What do we learn about the speakers? 
+15. M: Driving at night always makes me tired. Let’s stop the dinner. 
+W: Fine, and let’s find a motel so that we can get an early start tomorrow. 
+Q: What will the speakers probably do? 
+16. W: Let’s look at the survey on consumer confidence we conducted last week. How reliable are these figures? 
+M: They have a 5% margin of error. 
+Q: What are the speakers talking about? 
+17. W: Look at this catalogue John. I think I want to get this red blouse. 
+M: Eh, I think you already have one like this in blue. Do you need every color in the rainbow? 
+Q: What does the man mean? 
+18. W: This notice says that all the introductory marketing classes are closed. 
+M: That can’t be true. There are supposed to be 13 of them this semester. 
+Q: What does the man mean
+听力长对话原文
+M: I see your new resume that you worked as a manager of store called Computer Country, could you tell me a little more about your responsibilities there? 
+W: Sure. I was responsible for overseeing about 30 employees. I did all of the orderings for the store and I kept track of the inventory. 
+M: What was the most difficult part of your job? 
+W: Probably handling angry customers. We didn’t have them very often, but when we did, I need to make sure they were well taken good care of. After all, the customer is always right. 
+M: That’s how we feel here, too. How long did you work there? 
+W: I was there for three and a half years. I left the company last month. 
+M: And why did you leave? 
+W: My husband has been transferred to Boston and I understand that your company has an opening there, too. 
+M: Yes, that’s right. We do. But the position won’t start until early next month. Would that be a problem for you? 
+W: No, not at all. My husband’s new job doesn’t begin for a few weeks, so we thought we would spend some time driving to Boston and stop to see my parents. 
+M: That sounds nice. So, tell me, why are you interested in this particular position? 
+W: I know that your company has a great reputation and wonderful product. I’ve thought many times that I would like to be a part of it. When I heard about the opening in Boston, I jumped to the opportunity. 
+M: Well, I’m glad you did. 
+Questions 19 to 22 are based on the conversation you have just heard. 
+Q19: What was the woman’s previous job? 
+Q20: What does the woman say with the most difficult part of her job? 
+Q21: Why is the woman looking for a job in Boston? 
+Q22: When can the woman start to work if she gets the job? 
+11:17 
+Long Conversation 2 
+W: Today, in this studio, we have Alberto Cuties, the well-known Brazilian advocator of the anti-global movement. He’s here to talk about the recent report stating that by 2050, Brazil will be one of the world’s wealthiest and most successful countries. Alberto, what do you say about this report? 
+M: You know this isn’t the first time that people are saying Brazil will be a great economic power. The same thing was said over 100 years ago, but it didn’t happen. 
+W: Yes, but you must admit the world’s a very different place now. 
+M: Of course. In fact, I believe that there may be some truths in the predictions this time around. First of all, though, we must remember the problems facing Brazil at the moment. 
+W: Such as? 
+M: There’s an enormous gap between the rich and the poor in this country. In San Paulo, you can see shopping malls full of designer goods right next door to the slum areas without proper water or electricity supplies. A lot of work needs to be done to help people in those areas improve their lives. 
+W: What needs to be done? 
+M: Education, for example. For Brazil, to be successful, we need to offer education to all Brazilians. Successful countries, like South Korea and Singapore have excellent education systems. Brazil needs to learn from these countries. 
+W: So you’re hopeful for the future? 
+W: As I said earlier, I’m hopeful. This isn’t an easy job. We need to make sure that these important opportunities for Brazil aren’t wasted as they were in the past. 
+Questions 23 to 25 are based on the conversation you have just heard. 
+Q23: What does the recent report say about Brazil? 
+Q24: What problem does Alberto say Brazil faces now? 
+Q25: What does Alberto say about economically successful countries?
+
+(passage1） 
+Wilma Subra had no intention of becoming a public speaker. After graduating from college with degrees in chemistry and microbiology, she went to work at Gulf South Research Institute in Louisiana. As part of her job, she conducted field research on toxic substances in the environment, often in minority communities located near large industrial polluters. She found many families were being exposed to high, sometimes deadly levels of chemicals and other toxic substances. But she was not allowed to make her information public. Frustrated by these restrictions, Subra left her job in 1981, created her own company and has devoted the past two decades to helping people fight back against giant industrial polluters. She works with families and community groups to conduct environmental tests and hybrid test results, and organize for change. Because of her efforts, dozens of toxic sites across the country have been cleaned up. And one chemical industry spokesperson calls her “a top gun” for the environmental movement. How has Subra achieved all this? Partly through her scientific training, partly through her commitment to environmental justice. But just as important is her ability to communicate with people through public speaking. “Public speaking,” she says, “is the primary vehicle I use for reaching people。” If you had asked Subra before 1981, do you see yourself as a major public speaker? She would have laughed at the idea. Yet today she gives more than one hundred presentations a year. Along the way, she’s lectured at Harvard, testified before congress, and addressed audiences in 40 states, as well as in Mexico, Canada, and Japan。 
+Questions 26 to 29 are based on the passage you have just heard。 
+26. What did Wilma Subra do as part of her job while working at Gulf South Research Institute? 
+27. Why did Wilma Subra leave her job in 1981? 
+28. What results have Wilma Subra’s efforts had in the past two decades? 
+29. What does the speaker say has contributed to Wilma Subra’s success？
+Passage 2
+One of the biggest challenges facing employers and educators today is the rapid advance of globalization. The market place is no longer national or regional, but extends to all corners of the world. And this requires a global-ready workforce. Universities have a large part to play in preparing students for the 21st century labor market by promoting international educational experiences. The most obvious way universities can help develop a global workforce is by encouraging students to study abroad as part of their course. Students who have experienced another culture firsthand are more likely to be global-ready when they graduate. Global workforce development doesn’t always have to involve travel abroad, however. If students learn another language and study other cultures, they will be more global-ready when they graduate. It is important to point out that students also need to have a deep understanding of their own culture before they can begin to observe, analyze and evaluate other cultures. In multi-cultural societies, people can study each other’s cultures to develop intercultural competencies, such as critical and reflective thinking and intellectual flexibility. This can be done both through the curriculum and through activities on campus outside of the classroom, such as art exhibitions and lectures from international experts. Many universities are already embracing this challenge and providing opportunities for students to become global citizens. Students themselves, however, may not realize that when they graduate, they will be competing in a global labor market. And universities need to raise awareness of these issues amongst undergraduates。 
+Questions 30 to 32 are based on the passage you just heard: 
+30. What is one of the biggest challenges facing employers and educators today? 
+31. What should students do first before they can really understand other cultures? 
+32. What should college students realize according to the speaker?
+Passage 3 
+To see if hair color affects a person’s chances of getting a job, researchers at California State University asked 136 college students to review the resume and photograph of a female applicant for a job as an accountant. Each student was given the same resume but the applicant’s picture was altered so that in some photos, her hair was golden, in some red and in some brown. The result-----with brown hair, the woman was rated more capable and she was offered a higher salary than when she had a golden or red hair. Other studies have found similar results. Many respondents rate women with golden hair as less intelligent than other people and red hair as more temperamental. Women with red or golden hair are victims of the common practice of stereotyping. A stereotype is a simplistic or exaggerated image that human carries in their minds about groups of people. For example, lawyers are shrewd and dishonest is a popular stereotype. Stereotyping can occur in public speaking classes when trying to choose a speech topic. Some males think that women are uninterested in how to repair cars or some females think that men are uninterested in creative hobbies, such as knitting a needlepoint. We should reject to stereotypes because they force all people in a group into the same simple pattern. They fail to account for individual differences and the wide range of characteristics among members of any group. Some lawyers are dishonest, yes, but many are not. Some women are uninterested in repairing cars, yes, but some are enthusiastic with mechanics。 
+Questions 33 to 35 are based on the passage you have just heard。 
+Q33. What did researchers at California State University find? 
+Q34. What is the popular stereotype of lawyers? 
+Q35.Why does the speaker say we should reject to stereotypes? 
+Section C
+The ancient Greeks developed basic memory systems called mnemonics. The name is derived from their Goddess of memory "Mnemosyne". In the ancient world, a trained memory was an immense asset, particularly in public life. There were no convenient devices for taking notes, and early Greek orators delivered long speeches with great accuracy because they learned the speeches using mnemonic systems. 
+The Greeks discovered that human memory is largely an associative process that it works by linking things together. For example, think of an apple. The instant your brain registers the word "apple", it recalls the shape, color, taste, smell and texture of that fruit. All these things are associated in your memory with the word "apple". This means that any thought about a certain subject will often bring up more memories that are related to it. An example could be when you think about a lecture you have had. This could trigger a memory about what you're talking about through that lecture, which can then trigger another memory. Associations do not have to be logical. They just have to make a good link. An example given on a website I was looking at follows, "Do you remember the shape of Austria? Canada? Belgium? Or Germany? Probably not. What about Italy though? If you remember the shape of Italy, it is because you have been told at some time that Italy is shaped like a boot. You made an association with something already known, the shape of a boot. And Italy shape could not be forgotten once you had made the association.
+
