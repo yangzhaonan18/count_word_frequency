@@ -108,7 +108,7 @@ def trans2chinese_save(hashmap_sorted):
 
                 if row_used == 1:
                     work_sheet.cell(column=1, row=row_used, value="编号")  #  存放 单词的编号
-                    work_sheet.cell(column=2, row=row_used, value="频率")  #　存放　频数
+                    work_sheet.cell(column=2, row=row_used, value="频数")  #　存放　频数
                     work_sheet.cell(column=3, row=row_used, value="待翻译单词")  # 存放 单词
                     work_sheet.cell(column=4, row=row_used, value="翻译结果")  # 存放 翻译后的中文
                 work_sheet.cell(column=1, row=row_used+1, value=row_used)  #  存放 单词的编号
